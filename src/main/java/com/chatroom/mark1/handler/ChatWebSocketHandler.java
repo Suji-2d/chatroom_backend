@@ -1,6 +1,5 @@
 package com.chatroom.mark1.handler;
 
-import java.net.http.WebSocket;
 import java.util.ArrayList;
 import java.util.List;
 
